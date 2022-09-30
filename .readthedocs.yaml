@@ -1,5 +1,7 @@
 version: 2
-formats: all
+formats:
+  - htmlzip
+  - pdf
 
 python:
    install:
